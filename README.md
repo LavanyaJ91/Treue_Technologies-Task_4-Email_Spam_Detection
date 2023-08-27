@@ -1,4 +1,4 @@
-Treue_Technologies-Task_4-Email_Spam_Detection
+# Treue_Technologies-Task_4-Email_Spam_Detection
 
     This repository contains code for detecting email spam using machine-learning techniques. The code is implemented in Python and utilizes libraries such as pandas, NumPy, matplotlib, seaborn, sci-kit-learn, and imbalanced-learn.
 
